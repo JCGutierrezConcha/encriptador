@@ -17,6 +17,14 @@ main {
     margin-bottom: 50px;
 }
 
+.input-texto,
+.mensaje {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    resize: none;
+}
+
 .input-texto {
     margin-top: 90px;
 }
@@ -51,6 +59,12 @@ main {
 
 .desencriptar {
     margin-left: 30px;
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #2e2929;
 }
 
 .informacion {
